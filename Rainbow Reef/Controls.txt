@@ -1,0 +1,4 @@
+Movemment:
+Left/Right arrow keys: move Katch left and right
+Up/Down arrow keys: aim Pop
+Space: Shoot Pop
